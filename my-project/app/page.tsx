@@ -391,7 +391,7 @@ export default function Home() {
       activeMoves.forEach(m => { moveCounts[m] = (moveCounts[m] || 0) + 1; });
       Object.entries(moveCounts).forEach(([move, count]) => {
         if (count > 1) {
-          errors.push(`${slot.pokemon.name} has duplicate configurations for the move: ${move}`);
+          errors.push(`${slot.pokemon?.name || 'Unknown Pokémon'} has duplicate configurations for the move: ${move}`);
         }
       });
     });
