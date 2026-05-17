@@ -62,21 +62,45 @@ The platform focuses on advanced team construction, fast search systems, and com
 
 ## Screenshots
 
-### Builder Interface
+### Builder Main Interface
 
-<img src="./public/screenshots/builder.png" />
+<img width="2867" height="1601" alt="image" src="https://github.com/user-attachments/assets/a98fc4ec-615d-41e0-89c5-983c89b11364" />
 
 ---
 
-### Pokémon Editor
+### Pokémon List Editor
 
 <img src="./public/screenshots/editor.png" />
 
 ---
 
+### Pokémon Moves Editor
+
+<img width="2365" height="1428" alt="image" src="https://github.com/user-attachments/assets/8181a314-1933-49a7-8810-3856f8c04ac0" />
+
+---
+
+### Pokémon Items Editor
+
+<img width="2879" height="1676" alt="image" src="https://github.com/user-attachments/assets/7e557525-c96f-4f89-9fa6-1d2f1f50b46b" />
+
+---
+
+### Pokémon Stats Editor
+
+<img width="1876" height="1023" alt="image" src="https://github.com/user-attachments/assets/9fa37947-f20f-407f-86d5-bdf1c3941bd9" />
+
+---
+
 ### Team Overview
 
-<img src="./public/screenshots/team.png" />
+<img width="462" height="778" alt="image" src="https://github.com/user-attachments/assets/8480df5b-b2b5-4806-b93b-b555af9d1208" />
+
+---
+
+### Team Verification
+
+<img width="875" height="401" alt="image" src="https://github.com/user-attachments/assets/dc23b7e1-c862-446c-b5c1-d220532be5db" />
 
 ---
 
