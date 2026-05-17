@@ -68,12 +68,6 @@ The platform focuses on advanced team construction, fast search systems, and com
 
 ---
 
-### Pokémon List Editor
-
-<img src="./public/screenshots/editor.png" />
-
----
-
 ### Pokémon Moves Editor
 
 <img width="2365" height="1428" alt="image" src="https://github.com/user-attachments/assets/8181a314-1933-49a7-8810-3856f8c04ac0" />
