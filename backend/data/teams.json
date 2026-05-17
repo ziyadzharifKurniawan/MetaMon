@@ -1,4 +1,137 @@
 {
-  "nextTeamId": 1,
-  "teams": {}
+  "nextTeamId": 2,
+  "teams": {
+    "1": {
+      "teamId": 1,
+      "teamName": "Endpoint Test Team",
+      "slots": [
+        {
+          "slotIndex": 0,
+          "pokemonId": "pikachu",
+          "ability": "Static",
+          "item": "Light Ball",
+          "nature": "timid",
+          "moves": [
+            "Thunderbolt",
+            "",
+            "",
+            ""
+          ],
+          "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "slotIndex": 1,
+          "pokemonId": null,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "moves": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "slotIndex": 2,
+          "pokemonId": null,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "moves": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "slotIndex": 3,
+          "pokemonId": null,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "moves": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "slotIndex": 4,
+          "pokemonId": null,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "moves": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        },
+        {
+          "slotIndex": 5,
+          "pokemonId": null,
+          "ability": "",
+          "item": "",
+          "nature": "",
+          "moves": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+          }
+        }
+      ]
+    }
+  }
 }
