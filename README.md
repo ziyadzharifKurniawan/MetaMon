@@ -6,8 +6,11 @@
 
 By:
 2406369053	Ziyadzharif Alfarabi Kurniawan
+
 2406450390	Lando Akmalkane Airell Muhammad
+
 2406450352	Evandra Rasya Fadhillah
+
 2406450466	Raul Fadila Bagus Sumaryada
 
 ### Competitive Pokémon Team Builder
